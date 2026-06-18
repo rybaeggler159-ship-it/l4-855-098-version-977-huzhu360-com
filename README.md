@@ -1,16 +1,11 @@
-﻿# website-upload-855-098
+# 高分欧美电影
 
-Batch 98 of 16. Contains extracted static website versions. The original zip files are not committed.
+这是根据上传素材生成的纯静态电影网站。
 
-| Directory | Source zip |
-| --- | --- |
-| version-971 | project-bolt-sb1-8sthb9ck - 副本-chatgpt (1).zip |
-| version-972 | project-bolt-sb1-8sthb9ck - 副本-chatgpt (1)__1.zip |
-| version-973 | project-bolt-sb1-8sthb9ck-chatgpt (1).zip |
-| version-974 | project-bolt-sb1-8sthb9ck-chatgpt (1)__1.zip |
-| version-975 | project-bolt-sb1-8sthb9ck-chatgpt (1)__2.zip |
-| version-976 | project-bolt-sb1-8sthb9ck-chatgpt (2).zip |
-| version-977 | project-bolt-sb1-8ttfsy97 - 副本-chatgpt (1).zip |
-| version-978 | project-bolt-sb1-8ttfsy97 - 副本-chatgpt (1)__1.zip |
-| version-979 | project-bolt-sb1-8ttfsy97 - 副本-chatgpt (2).zip |
-| version-980 | project-bolt-sb1-8ttfsy97-chatgpt (1) - from-a-20260526-121348-0066.zip |
+- 影片详情页：2000 个
+- 全部影片分页：84 页
+- 分类入口：96 个
+- 播放器：详情页点击播放后加载 m3u8/HLS
+- 图片规则：页面引用网站根目录下的 1.jpg 到 150.jpg；把图片放到网站顶级目录即可显示。
+
+部署方式：上传本目录内所有文件到静态空间或服务器根目录。
